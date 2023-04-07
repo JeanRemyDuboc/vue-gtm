@@ -1,6 +1,7 @@
-# GTM Vue
+# GTM Vue Demo
 
 This template should help get you started developing with Vue 3 in Vite.
+It's been adapted to include Google Tag Management Setup.
 
 ## Recommended IDE Setup
 
