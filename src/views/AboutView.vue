@@ -13,3 +13,13 @@
   }
 }
 </style>
+
+<script>
+import { useGtm } from '@gtm-support/vue-gtm';
+
+const gtm = useGtm()
+//Example of login event trigger
+gtm.trackEvent({
+  event: 'login'
+})
+</script>
